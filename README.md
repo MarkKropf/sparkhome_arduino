@@ -3,7 +3,7 @@ This is a quick and dirty OSC -> LED Pixel controller for arduino. This code use
 
 https://vimeo.com/51333812 --> Video of the effects currently included in this project.
 
-Arduino Components:
+## Arduino Components:
 * http://www.arduino.cc/en/Main/ArduinoBoardDuemilanove --> Arduino Duemilanove
 * http://www.arduino.cc/en/Main/ArduinoEthernetShield --> Arduino Ethernet Shield
 * http://macetech.com/store/index.php?main_page=product_info&products_id=35 --> Macetech Octobar
