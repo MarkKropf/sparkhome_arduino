@@ -15,4 +15,4 @@ Arduino Components:
 * https://www.ableton.com/en/ --> I use Ableton for live performacne software which loads a MaxMSP Patch to send beat detection info via OSC to the Arduino.
 * http://cycling74.com/ --> MAX/MSP gives me the Ableton interface to speak OSC to the Arduino
 
-
+Thanks!

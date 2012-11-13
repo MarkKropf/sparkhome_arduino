@@ -14,7 +14,7 @@ int  serverPort  = 10000;
 #define latchpin    7 // LI
 #define datapin    2 // DI
 
-// Defines for direct port access
+// Defines for direct port access.
 #define CLKPORT PORTD
 #define ENAPORT PORTB
 #define LATPORT PORTD
