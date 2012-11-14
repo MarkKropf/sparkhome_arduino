@@ -1,5 +1,5 @@
 # Summary
-This is a quick and dirty OSC -> LED Pixel controller for arduino. This code uses the timer() to produced timed effects instead of delay(). The result is roughly a 35fps speed out of a duemilanove arduino. I currently use MaceTech octobars with this code, but other RGB LED pixels could be used. I also now include the MAX/MSP patch to take sound from a laptop and perform realtime beat detection to send beat messages to the Arduino LED Pixel controller. This allows for some cool effects that move with the music and can also be used for syncing the speed of visual effects to music. 
+This is a quick and dirty OSC -> LED Pixel controller for arduino. This code uses the timer() to produce timed effects instead of using delay(). The result is roughly a 35fps speed out of a duemilanove arduino. I currently use MaceTech octobars with this code, but other RGB LED pixels could be used. I also now include the MAX/MSP patch to take sound from a laptop and perform realtime beat detection to send beat messages to the Arduino LED Pixel controller. This allows for some cool effects that move with the music and can also be used for syncing the speed of visual effects to music. 
 
 https://vimeo.com/51333812 --> Video of the effects currently included in this project.
 
